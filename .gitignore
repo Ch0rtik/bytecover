@@ -13,9 +13,14 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+data/albums
+bin/
 .eggs/
 lib/
+include/
+share/
 lib64/
+lib64
 parts/
 sdist/
 var/

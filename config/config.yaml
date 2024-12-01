@@ -1,6 +1,6 @@
 data_path: data
 file_extension: mp3
-dataset_path: /data/shs100k
+dataset_path: data/albums
 save_model_path: models
 debug: True
 progress_bar: True
